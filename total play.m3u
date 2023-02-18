@@ -3,19 +3,7 @@
 
 
 
-#
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtv.png" group-title="LOCALES",Foro
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=104&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES",Azteca 7
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="LOCALES",NU9VE
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png" group-title="LOCALES",Canal Once
-https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
+
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png" group-title="INFORMACIÓN",Teleformula
 https://regioplay.xyz/php/SR_REGIO_112023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
 #EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="REGIONALES PÚBLICOS",Mexiquense Televisión
